@@ -1,0 +1,12 @@
+* {
+    background-color: rgb(158, 152, 197);
+    font-family: sans-serif;
+}
+#list {
+    text-align: center;
+    list-style: none;
+    font-size: 60px;
+}
+h1 {
+    text-align: center;
+}
